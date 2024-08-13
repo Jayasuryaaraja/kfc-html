@@ -1,0 +1,14 @@
+.sry ul li{
+
+    list-style: none;
+    display: inline;
+    padding-right: 50px;
+    color: blue;
+    font-size: x-large;
+    
+}
+.sry{
+    margin: 80px;
+    background-color: aqua;
+    padding: 100px;
+}
